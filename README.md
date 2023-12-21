@@ -26,12 +26,3 @@ We would like to thank Pat Hanrahan for his implementation of the LSM6DS33 drive
 which we used in our project. We would like to thank our classmate Ben Ruland for
 inspiring us with some of his image processing code. 
 
-## Self-evaluation
-How well was your team able to execute on the plan in your proposal?  
-Any trying or heroic moments you would like to share? Of what are you particularly proud: the effort you put into it? the end product? 
-the process you followed? what you learned along the way? Tell us about it!
-
-## Photos
-You are encouraged to submit photos/videos of your project in action. 
-Add the files and commit to your project repository to include along with your submission.
-
